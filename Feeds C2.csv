@@ -1,0 +1,5 @@
+﻿#domain,ioc,IPs,C2Domains
+10nf0x.com,Possible Cobaltstrike DNS C2 Domain,134.209.92.85,t.10nf0x.com
+163microsoft.com,Possible Cobaltstrike DNS C2 Domain,152.32.135.165,ns1.163microsoft.com ns2.163microsoft.com
+227api.com,Possible Cobaltstrike DNS C2 Domain,103.146.141.98 154.92.16.150,ns2.227api.com ns3.227api.com nt1.227api.com nt2.227api.com nt3.227api.com
+623866.xyz,Possible Cobaltstrike DNS C2 Domain,43.143.58.212,ns1.623866.xyz ns2.623866.xyz
